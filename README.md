@@ -13,13 +13,3 @@ A deep dive into the ola dataset to uncover patterns, insights, and trends.
   - EDA and visualization 🧐
   - Predictive model building 🤖
 
-
----
-
-## 🏃‍♂️ Getting Started
-
-To get a local copy of this repo up and running on your machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/home-repo.git
